@@ -1,0 +1,23 @@
+{
+  "name": "orange-text",
+  "version": "1.0.0",
+  "description": "Command line tool to change text color to orange",
+  "main": "index.js",
+  "bin": {
+    "orange-text": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "text",
+    "color",
+    "orange",
+    "cli"
+  ],
+  "author": "Nama Anda",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
