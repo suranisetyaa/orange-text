@@ -4,7 +4,7 @@
   "description": "Command line tool to change text color to orange",
   "main": "index.js",
   "bin": {
-    "orange-text": "./index.js"
+    "orange-text": "index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -19,5 +19,14 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suranisetyaa/orange-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suranisetyaa/orange-text/issues"
+  },
+  "homepage": "https://github.com/suranisetyaa/orange-text#readme"
 }
